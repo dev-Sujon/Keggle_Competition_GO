@@ -1,0 +1,17 @@
+
+🎯 Data Exploration
+
+✅ Handling missing values
+
+🔄 Encoding categorical variables
+
+🧼 Outlier removal (optional)
+
+🧮 Feature engineering
+
+⚖️ Dealing with class imbalance (if needed)
+
+⚙️ Feature scaling
+
+🧪 Splitting the dataset
+
